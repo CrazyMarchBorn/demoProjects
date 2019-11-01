@@ -1,0 +1,25 @@
+{
+  "name": "news-scraper",
+  "version": "1.0.0",
+  "description": "scrape all the news from duckduckgo search engine for a given query.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WantedStar96/demoProjects.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "abhilash jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WantedStar96/demoProjects/issues"
+  },
+  "homepage": "https://github.com/WantedStar96/demoProjects#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
